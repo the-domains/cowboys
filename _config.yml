@@ -1,0 +1,28 @@
+name: cowboys
+favicon: null
+layout_spectrum: 0.7384456740692258
+typography_spectrum: 0.5290493324864656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.30768342153169215
+  lightness: 0.3516735192388296
+  saturation: 0.13912424724549055
+  rhythmicContrast: 0.13512887014076114
+purpose: []
