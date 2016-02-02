@@ -2,13 +2,27 @@
     <channel>
         <title><![CDATA[cowboys]]></title>
         <description><![CDATA[cowboys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cowboys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 01:23:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 01:59:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cowboys/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>2009 NFC Wild Card Round: Cowboys Stomp Eagles 34-14, End 13-Year Drought</p>]]></description>
+            <link>https://thegrid.ai/cowboys/2009-nfc-wild-card-round-cowboys-stomp-eagles-34-14-end-13/index.html</link>
+            <guid isPermaLink="false">335fb804-26fc-497a-9042-be4cbf3d0eb7</guid>
+            <pubDate>Tue, 02 Feb 2016 01:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>NFL Pro Bowl 2016: Live Score, Highlights and Reaction</p>]]></description>
+            <link>https://thegrid.ai/cowboys/nfl-pro-bowl-2016-live-score-highlights-and-reaction/index.html</link>
+            <guid isPermaLink="false">09297c6a-bc08-4270-bb1f-0673e7a826f4</guid>
+            <pubDate>Tue, 02 Feb 2016 01:59:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dez Bryant thinks Cowboys 'moved a step closer' to Super Bowl in 2015]]></title>
-            <description><![CDATA[<article><h1>Dez Bryant thinks Cowboys 'moved a step closer' to Super Bowl in 2015</h1><p>The Dallas Cowboys probably realized 2015 was going to be a long season the second Dez Bryant suffered a foot injury in the season opener against the Giants. At least they should have. Despite high hopes, Dallas finished with just four wins on the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58c15738c2cb71de7089c242de2e3882061cbdf8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dez Bryant thinks Cowboys 'moved a step closer' to Super Bowl in 2015</h1><p>The Dallas Cowboys probably realized 2015 was going to be a long season the second Dez Bryant suffered a foot injury in the season opener against the Giants. At least they should have. Despite high hopes, Dallas finished with just four wins on the year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba2d9c003f4259096503a54da0edd0efb75a3e7e.jpg"></article>]]></description>
             <link>http://www.cbssports.com/nfl/eye-on-football/25468011/dez-bryant-thinks-cowboys-moved-a-step-closer-to-super-bowl-in-2015</link>
             <guid isPermaLink="false">47ebde2f-0616-455d-ac39-3d3585012d87</guid>
             <pubDate>Mon, 01 Feb 2016 01:22:57 GMT</pubDate>
